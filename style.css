@@ -165,7 +165,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url(./images/checked\ 1.png);
+    background-image: url(./checkedBlue.png);
 }
 ul li span{
     position: absolute;
