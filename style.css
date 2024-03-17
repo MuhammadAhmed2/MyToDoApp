@@ -181,7 +181,7 @@ ul li span{
 }
 
 ul li span:hover{
-    color: wh;
+    color: white;
     background-color: #0dd6e9;
     border-radius: 30px;
     animation: mymove 3s;
